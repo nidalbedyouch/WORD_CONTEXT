@@ -1,0 +1,7 @@
+nltk
+langid
+matplotlib
+wordcloud
+treetaggerwrapper
+numpy
+tagging

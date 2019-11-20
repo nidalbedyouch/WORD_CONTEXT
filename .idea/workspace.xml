@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acdecfca-1284-4740-8090-31ca4da67096" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WORD_PROCESS" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RTEwMl3gjRa5Jq6C0I1ct8nw13" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT\WORD_CONTEXT\database" />
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT\WORD_CONTEXT\clustering" />
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT\src" />
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT" />
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT\src\pre_process" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT\venv\Scripts" />
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT\resources" />
+      <recent name="C:\Users\33659\PycharmProjects\WORD_CONTEXT\ressources\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pre_process (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="WORD_CONTEXT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_process (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WORD_CONTEXT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WORD_CONTEXT/pre_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WORD_CONTEXT/pre_process/pre_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WORD_CONTEXT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/pre_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\33659\PycharmProjects\WORD_CONTEXT\src\pre_process\pre_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pre_process (1)" />
+        <item itemvalue="Python.pre_process" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acdecfca-1284-4740-8090-31ca4da67096" name="Default Changelist" comment="" />
+      <created>1569682922054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569682922054</updated>
+      <workItem from="1569682923257" duration="2655000" />
+      <workItem from="1569789103512" duration="690000" />
+      <workItem from="1569833112595" duration="411000" />
+      <workItem from="1569867829930" duration="8449000" />
+      <workItem from="1569947218947" duration="5263000" />
+      <workItem from="1569956276121" duration="954000" />
+      <workItem from="1569958350294" duration="7023000" />
+      <workItem from="1570000613686" duration="7237000" />
+      <workItem from="1570018657524" duration="2764000" />
+      <workItem from="1570127732068" duration="1185000" />
+      <workItem from="1570138674970" duration="3657000" />
+      <workItem from="1570211755135" duration="956000" />
+      <workItem from="1570212850142" duration="3144000" />
+      <workItem from="1570219584395" duration="5945000" />
+      <workItem from="1570440043542" duration="3931000" />
+      <workItem from="1570537332765" duration="50000" />
+      <workItem from="1570628707604" duration="8035000" />
+      <workItem from="1570737268665" duration="11504000" />
+      <workItem from="1570882537754" duration="25877000" />
+      <workItem from="1571060908643" duration="1412000" />
+      <workItem from="1571067946857" duration="30000" />
+      <workItem from="1571077107660" duration="340000" />
+      <workItem from="1571078883527" duration="1065000" />
+      <workItem from="1574022993838" duration="8869000" />
+      <workItem from="1574070676125" duration="6287000" />
+      <workItem from="1574163225844" duration="2070000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WORD_PROCESS$pre_process__1_.coverage" NAME="pre_process (1) Coverage Results" MODIFIED="1570973175819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WORD_CONTEXT/pre_process" />
+    <SUITE FILE_PATH="coverage/WORD_CONTEXT$pre_process.coverage" NAME="pre_process Coverage Results" MODIFIED="1570001560198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/pre_process" />
+  </component>
+</project>
